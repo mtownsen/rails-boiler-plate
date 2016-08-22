@@ -5,9 +5,6 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
-Rails 5
-
-* System dependencies
-Devise
-Tiddle
+# System dependencies
+* Devise
+* Tiddle
